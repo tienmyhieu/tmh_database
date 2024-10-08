@@ -1,0 +1,11 @@
+{
+  "pn1zhmbf": { "active": "1", "api": "1", "comment": "emperor", "entity_type": "1ojvzg9f", "expand": "1", "name": "emperor", "translation": "20g0xji0" },
+  "7e7lnhip": { "active": "1", "api": "1", "comment": "metal", "entity_type": "1ojvzg9f", "expand": "1", "name": "metal", "translation": "15dlf7mk" },
+  "zk1rp7lv": { "active": "1", "api": "1", "comment": "imperial", "entity_type": "3ugkq3y1", "expand": "0", "name": "imperial", "translation": "gy14uukd" },
+  "jkn45drt": { "active": "1", "api": "1", "comment": "museum", "entity_type": "3ugkq3y1", "expand": "0", "name": "museum", "translation": "c94ptsxs" },
+  "1ax29fca": { "active": "1", "api": "1", "comment": "book", "entity_type": "3ugkq3y1", "expand": "0", "name": "book", "translation": "3hdo2o1k" },
+  "qv7syea9": { "active": "1", "api": "1", "comment": "magazine", "entity_type": "3ugkq3y1", "expand": "0", "name": "magazine", "translation": "z15fz7e9" },
+  "9p3x0jiq": { "active": "1", "api": "1", "comment": "auction", "entity_type": "cwdmesum", "expand": "0", "name": "auction", "translation": "e3rnzcx5" },
+  "t95p5m9w": { "active": "1", "api": "1", "comment": "collection", "entity_type": "cwdmesum", "expand": "0", "name": "collection", "translation": "95rzmnu3" },
+  "h234djf7": { "active": "1", "api": "1", "comment": "web_article", "entity_type": "cwdmesum", "expand": "0", "name": "web_article", "translation": "k7o813k8" }
+}
